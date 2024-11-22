@@ -17,8 +17,8 @@ Patterns in Healthcare Services: Are there identifiable patterns in the utilizat
 
 ### Data Cleaning Process
 
-Removed Duplicates: Identified and eliminated 534 duplicate rows to ensure data accuracy and integrity.
-Checked for Empty Cells: Performed a thorough check for any empty cells across the dataset; no missing values were found.
-Trimmed Cell Values: Applied trimming functions to remove any unnecessary leading or trailing spaces in text fields.
-Standardized Text Formatting: Adjusted inconsistent text cases to maintain uniformity throughout the dataset.
+- Removed Duplicates: Identified and eliminated 534 duplicate rows to ensure data accuracy and integrity.
+- Checked for Empty Cells: Performed a thorough check for any empty cells across the dataset; no missing values were found.
+- Trimmed Cell Values: Applied trimming functions to remove any unnecessary leading or trailing spaces in text fields.
+- Standardized Text Formatting: Adjusted inconsistent text cases to maintain uniformity throughout the dataset.
 
