@@ -10,10 +10,10 @@ The primary aim was to answer critical questions about patient demographics, hea
 
 The objective of this project was to analyze HealthConnect's comprehensive patient database to address the following key questions:
 
-Patient Demographics Distribution: What is the demographic breakdown of patients across different health conditions?
-Demographic Associations with Health Conditions: How do factors such as age and gender correlate with specific health conditions?
-Variation in Admission Types: How does the type of patient admission (e.g., emergency, elective, urgent) differ across various demographics and health conditions?
-Patterns in Healthcare Services: Are there identifiable patterns in the utilization of healthcare services, such as medication and billing amounts, when considering patient demographics and health conditions?
+- Patient Demographics Distribution: What is the demographic breakdown of patients across different health conditions?
+- Demographic Associations with Health Conditions: How do factors such as age and gender correlate with specific health conditions?
+- Variation in Admission Types: How does the type of patient admission (e.g., emergency, elective, urgent) differ across various demographics and health conditions?
+- Patterns in Healthcare Services: Are there identifiable patterns in the utilization of healthcare services, such as medication and billing amounts, when considering patient demographics and health conditions?
 
 ### Data Cleaning Process
 
