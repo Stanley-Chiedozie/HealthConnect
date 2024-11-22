@@ -1,6 +1,7 @@
 # HealthConnect
 Analysis of a fictional health company called HealthConnect to analyze patient health data to discover trends, and  aid management in decision-making
 
+In this project, i conducted an analysis of patient data for HealthConnect, a company specializing in healthcare solutions.
+The primary aim was to answer critical questions about patient demographics, healthcare service patterns, and variations in health conditions. By leveraging a structured data analysis pipeline, comprising data cleaning, processing, visualization, and presentation. I provided actionable insights to aid HealthConnect’s management in optimizing healthcare delivery and resource allocation, making complex trends clear and actionable for strategic decision-making.
+![image](https://github.com/user-attachments/assets/16cbdc2d-8cec-46ca-be02-9bbb8faddb5d)
 
-![healthConnecttt-2_page-0001](https://github.com/user-attachments/assets/545d8c90-369a-4792-a57d-915c09325f0e)
-![healthConnecttt-3_page-0001](https://github.com/user-attachments/assets/082f7e85-5e15-41ff-9910-52a1b85e9de6)
